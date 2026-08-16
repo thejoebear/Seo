@@ -108,6 +108,10 @@ export function Analyzer() {
         </button>
       </form>
 
+      <p className="mt-4 text-center text-sm text-slate-500">
+        No signup required. Try it on your own site or a competitor&apos;s.
+      </p>
+
       {error && (
         <div className="mt-4 rounded-xl bg-rose-50 px-4 py-3 text-sm text-rose-700 ring-1 ring-rose-200">
           {error}

@@ -100,9 +100,6 @@ export default function Home() {
           <div className="mt-10">
             <Analyzer />
           </div>
-          <p className="mt-4 text-sm text-slate-500">
-            No signup required. Try it on your own site or a competitor&apos;s.
-          </p>
         </div>
       </section>
 
